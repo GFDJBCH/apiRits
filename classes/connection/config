@@ -1,0 +1,9 @@
+{
+    "connection":{
+        "server" : "ritstest.cnfwdrtgyxew.us-west-2.rds.amazonaws.com",
+        "user" : "acromntec",
+        "password" : "actJG2022/*",
+        "database" : "rits",
+        "port" : "3306"
+    }
+}
